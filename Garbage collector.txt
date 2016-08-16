@@ -1,0 +1,64 @@
+The way on how immaterial goods are delivered to users is giving remarkable opportunities to business over the Internet. 
+
+
+Service quality is one of the key factors in determining the success or failure of e-commerce
+
+
+Compatibility: the ability of machines, specially computers, or computer programs to work successfully with other machines or programs.
+
+Reusability: degree of which an asset can be used in more than one system, or in building other asssets.
+
+———————————————
+
+In this thesis work a conceptual model is presented in order to understand qualitative characteristics of e-services in four dimensions (1) Accessibility, (2) Usability, (3) Efficiency, and (4) Security.
+
+The e-services State-of-the-Art meta-model
+
+
+Reliability in the offline context is defined as “ability to perform the promised service accurately and dependably” [5]
+
+
+
+ On this chapter we define each of the four dimensions considered for this thesis work, previous researches related to e-services in different applications as e-commerce, e-government, etc., have shown that Accessibility, Usability, Efficiency and Security are the minimum required diemnsions to perform any study on understanding quality on e-services.
+
+Relationships between e-service qualitative characteristics and AUES quality dimensions
+
+
+
+Procedure model for a single e-service
+
+
+
+
+One of the main obstacles in an online environment development is the lack of confidence stimulated by the deficiency of security and privacy [38].
+
+Since the  quality and context for all the different types of e-services are different it is not possible to have the most generic way to measure the quality of any kind of e-service, but it is possible to understand the qualitative characteristics of e-services, as starting point on the quest and definition for evaluating the quality of e-services.
+
+
+According to Kim et al., on system availability dimension of E-S-QUAL is a significant element to ensure that techinical functionality of the website is properly working which may direct to high user satisfaction and good productivity [40].
+
+Note: A way of thinking on the user quality perspective and expectations (Quality in use model components) was strongly considered for creation of conceptual model for understanding e-services qualitative characteristics.
+
+ The main purpose of the software quality model is to specify and assess the level of quality of a product through internal measures of inherent properties of the software, and through external measures of the behaviour of the system of which the software is part [28].
+
+A trustworthy service is considered to have as minimum a set of elements, those are: preserve and respect the privacy concerned to its users, be reliable and be delivered with the top level business integrity.
+
+Product quality model represents the characteristics expected by e-services users.
+
+Reliability Comprises four items related to accurate online transactions, accurate records, correct performance and fulfillment, correct performance and fulfillment of promises [44]. 
+
+For the state of the art:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
