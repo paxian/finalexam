@@ -49,7 +49,9 @@ Reliability Comprises four items related to accurate online transactions, accura
 
 For the state of the art:
 
+, on the other hand all the studies propose different dimensions for evaluating e-service quality, but there is no proposed reference considering which are basic and common dimensions for understanding the quality of e-services. 
 
+There are different models suggesting different dimensions, and measurement instruments (Table 1) for determining quality of e-services, 
 
 
 
