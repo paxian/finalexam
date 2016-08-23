@@ -1,0 +1,45 @@
+For conclusions
+
+Garvin defines User perceived quality as the combination of
+product attributes which provide the greatest satisfaction to
+a specified user.
+
+ Quality in use in ISO DIS 14598-1 as the effectiveness,
+efficiency and satisfaction with which specified users can
+achieve specified goals in specified environments.
+
+Quality in use is the objective, product quality is the means of achieving it (ISO 14598-1).
+
+1.3:
+
+Services need to be described and understood in terms of both functional capabilities and service quality properties [4]
+
+Service quality combines several service properties as security, availability, response time, etc., and generally are seen as distinctive success factors for service providers. 
+
+It is generally agreed that service quality is multi-level and multi-dimensional concept that means different things to different people [5].
+
+It is no longer sufficient to simply provide technically excellent software products.
+
+Assessing the quality in use allows owners to estimate how usable a product might be and the satisfaction of the user.
+
+To assess quality in use, it is first necessary to define a model, taking into consideration an ISO standard, for example.Perception of quality in use must be measured in terms of results on using a software, not properties of the software itself.
+——————
+
+Continuous improvement on quality of services increases customer satisfaction, this is vital for companies in order to survive on the market
+
+Quality has become important and recognized, nevertheless, what remains understudied are both its concrete conceptualization and measurements.
+
+To increase customer base in e-commerce it is important to implement and contin-uously review the quality of e-services.
+
+service portals need to understand user needs more than government's perspectives or interests.
+
+1.	Users expect quality services, the online dimension is no exception
+
+2.	Quality of services should be analysed and accounted for, in order to maximize and to develop strategies that improve offered services, increasing the satisfaction levels of their consumers.
+
+4.	The perspective of user concerning the quality of the service is fundamental to measure satisfaction.
+
+5.	It is important to have a model to measure quality of services.
+
+
+
