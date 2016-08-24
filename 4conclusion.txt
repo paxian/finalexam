@@ -41,5 +41,13 @@ service portals need to understand user needs more than government's perspective
 
 5.	It is important to have a model to measure quality of services.
 
+it is believed that the success of organizations will depend on the quality e-services provided.
+
+multi diemnsions suitable for measuring e-service quality in e-government domain have been identified and the relationpship between those diemnsions and user satisfaction and trust respetively have been proposed.
+
+A conceptual model for understanding the quality of e-services has been proposed. The model dimensions are proposed based on the literature and the previous researches in the same area. The selected dimensions my have various effects on service quality. The dindings will lead to build a proper scale to measure the quality of e-services, which asist to improve the performance and effectiveness of e-services to achieve the satisfaction of the users. Therefore, it will lead to attain a competitive advantage for the universities in their respective target markets.
+
+
+
 
 
