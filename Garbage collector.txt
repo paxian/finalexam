@@ -37,7 +37,7 @@ Since the  quality and context for all the different types of e-services are dif
 
 According to Kim et al., on system availability dimension of E-S-QUAL is a significant element to ensure that techinical functionality of the website is properly working which may direct to high user satisfaction and good productivity [40].
 
-Note: A way of thinking on the user quality perspective and expectations (Quality in use model components) was strongly considered for creation of conceptual model for understanding e-services qualitative characteristics.
+Note: A way of thinking on the user quality perspective and expectations (talk model components) was strongly considered for creation of conceptual model for understanding e-services qualitative characteristics.
 
  The main purpose of the software quality model is to specify and assess the level of quality of a product through internal measures of inherent properties of the software, and through external measures of the behaviour of the system of which the software is part [28].
 
