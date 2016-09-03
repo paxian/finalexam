@@ -4,7 +4,7 @@ Garvin defines User perceived quality as the combination of
 product attributes which provide the greatest satisfaction to
 a specified user.
 
- Quality in use in ISO DIS 14598-1 as the effectiveness,
+ I in ISO DIS 14598-1 as the effectiveness,
 efficiency and satisfaction with which specified users can
 achieve specified goals in specified environments.
 
